@@ -1,6 +1,5 @@
 .nav-bar{
   background-color: slategrey;
-  float:right;
 }
 
 .link-icon {
@@ -37,6 +36,6 @@ div .col-xs-4 {
     background-size: cover;
     background-image: url(img/waterfall.jpg);
     opacity: 0.4;
-    overflow: hidden: ;
+    overflow: hidden;
     height: 100vh;
     width: 100vw;
