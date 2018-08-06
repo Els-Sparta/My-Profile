@@ -33,9 +33,17 @@ div .col-xs-4 {
 }
 
 #titlePage {
-    background-size: cover;
-    background-image: url(img/waterfall.jpg);
-    opacity: 0.4;
-    overflow: hidden;
-    height: 100vh;
-    width: 100vw;
+  background-size: cover;
+  background-image: url(img/waterfall.jpg);
+  opacity: 0.4;
+  overflow: hidden;
+  height: 100vh;
+  width: 100vw;
+}
+
+#bodyPage {
+  background-size: cover;
+  background-image: url(img/body-background.jpg);
+  opacity: 1;
+  overflow:hidden;
+}
